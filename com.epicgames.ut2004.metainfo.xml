@@ -28,7 +28,9 @@
     <screenshot><image>https://media.moddb.com/images/games/1/1/78/Shot00031.jpg</image></screenshot>
     <screenshot><image>https://media.moddb.com/images/games/1/1/78/Shot00003.jpg</image></screenshot>
   </screenshots>
-  <developer_name>Epic Games</developer_name>
+  <developer id="com.epicgames">
+    <name>Epic Games</name>
+  </developer>
   <releases>
     <release version="3369.2" date="2006-01-02"/>
   </releases>
