@@ -7,6 +7,7 @@
   <name>Unreal Tournament 2004 Launcher</name>
   <summary>First-person arena shooter</summary>
   <description>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Epic Games.**</p>
     <p>
       Unreal Tournament 2004 is a multiplayer first person shooter that combines the kill-or-be-killed experience of gladiatorial combat with cutting-edge technology.
       Ten game modes provide even the most hardcore gamer with palm-sweating challenges through unbelievably detailed indoor arenas and vast outdoor environments.
@@ -16,9 +17,6 @@
     <p>
       This launcher sets up the native Linux port of Unreal Tournament 2004 with additional fixes that make it work on a modern system.
       It needs the official game files to function properly.
-    </p>
-    <p>
-      NOTE: This wrapper is not verified by, affiliated with, or supported by Epic Games.
     </p>
   </description>
   <url type="homepage">https://www.epicgames.com/unrealtournament/</url>
