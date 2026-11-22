@@ -3,7 +3,7 @@
   <id>com.epicgames.ut2004</id>
   <launchable type="desktop-id">com.epicgames.ut2004.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://store.steampowered.com/eula/eula_epic</project_license>
   <name>Unreal Tournament 2004 Launcher</name>
   <summary>First-person arena shooter</summary>
   <description>
